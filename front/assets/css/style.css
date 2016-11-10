@@ -1,0 +1,192 @@
+body{
+      font-family:"sans-serif";
+    }
+.navBardemoBasicUsage md-content .ext-content {
+  padding: 50px;
+  margin: 20px;
+  background-color: #FFF2E0; }
+  .header
+  {
+  	width:auto;
+  	height:60px;
+  	background-color:#2196f3;
+  	color:#fff;
+  	position:relative;
+  	padding:1px;
+    box-shadow: 0 0 10px grey;
+  	font-family:"sans-serif";
+    transition:1s;
+  }
+  .header:hover{
+    background-color:#1976d2;
+    transition:1s;
+  }
+  .chatbox{
+  	height:500px;
+  	width:100%;
+  	margin-top:10px;
+  	margin-bottom:10px;
+  	border:2px solid rgb(63, 81, 181);
+  	box-shadow:0 0 5px grey;
+  	border-radius:5px;
+  	background-color:#fff;
+    padding: 0;
+    overflow:hidden;
+    transition:1s;
+  }
+  .chatbox-scroll{
+     float: left;
+    height: 430px;
+    overflow-x: hidden;
+    padding-bottom: 29px;
+    width: 100%;
+    overflow: auto;
+  }
+ /*.chatbox-scroll:hover{
+  overflow: auto;
+  overflow-x: hidden;
+ }*/
+  .container
+  {
+  	background-color:#f3f3f3;
+  }
+  .msg_to{
+  	background-color: #009688;
+    color:#fff;
+  	background-size:300px;
+  	border-radius:15px;
+  	width:80%;
+  	height:auto;
+  	padding:10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom:10px;
+   -webkit-transition-property: width; / Safari /
+    -webkit-transition-duration: 5s; / Safari /
+    -webkit-transition-delay: 2s; / Safari /
+    transition-property: width;
+    transition-duration: 5s;
+    transition-delay: 2s;
+  }
+  .msg_from{
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-right: 10px;
+  	background-color:rgb(63, 81, 181);
+  	background-size:300px;
+    color:#fff;
+  	border-radius:15px;
+  	width:80%;
+  	height:auto;
+  	padding:10px;
+  	word-wrap: break-word;
+-webkit-transition-property: width; / Safari /
+    -webkit-transition-duration: 5s; / Safari /
+    -webkit-transition-delay: 2s; / Safari /
+    transition-property: width;
+    transition-duration: 5s;
+    transition-delay: 2s;
+  }
+  md-input-container {
+  width: 80%;
+}
+.chatbox>.info{
+  height:50px;
+  width: 551px;
+  background-color:#2196aa;
+  margin:0px;
+  position: relative;
+  float: left;
+  color:#fff;
+  padding-left:30px;
+}
+#logout{
+  position:relative;
+}
+ .footer
+  {
+    width:auto;
+    height:100px;
+    background-color:#212121;
+    color:#fff;
+    position:relative;
+    padding-top:30px;
+    font-family:"sans-serif";
+  }
+  #loginform
+  {
+    margin-bottom:100px;
+    margin-top:50px;
+  }
+  #animate
+  {
+    -webkit-transition-property: width; / Safari /
+    -webkit-transition-duration: 5s; / Safari /
+    -webkit-transition-delay: 2s; / Safari /
+    transition-property: width;
+    transition-duration: 5s;
+    transition-delay: 2s;
+  }
+  #loading
+  {
+    position:fixed;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+    margin:auto;
+    width:297px;
+    height:297px;
+    z-index:10;
+  }
+  .regform
+  {
+    font-family:sans-serif;
+    background-color:#fff;
+  }
+  .error_msg{
+    color:red;
+  }
+  .count{
+    float:right;
+    color:#fff;
+    background-color:#FFA000;
+    text-align: center;
+    width:30px;
+    height:32px;
+    border-radius: 15px;
+    padding-bottom:4px;
+    margin-left: 136px;
+    z-index:10;
+  }
+  .profpic{
+    border-radius:20px;
+    margin-right:20px;
+  }
+  .userlist{
+    overflow: hidden;
+    height:500px;
+  }
+  .userlist:hover{
+    overflow: auto;
+    overflow-x: hidden;
+  }
+  .myprofile
+  {
+    text-align: center;
+    height:500px;
+    background-color:#fff;
+        padding: 10px;
+  }
+  .user_offline
+  {
+    color:red;
+  }
+   .user_online
+  {
+    color:green;
+  }
+  .header1{
+    background-color: #2196aa;
+  }
+  

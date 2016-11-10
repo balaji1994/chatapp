@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Main page</title>
+</head>
+<body>
+	<div class="container">
+	<div class="row">
+	<!-- <div id="loading">
+	<img src="assets/images/loading.gif">
+	</div> -->
+	<div class="col-md-3">
+		<md-toolbar layout="row" class="md-hue-7">
+	      <div class="md-toolbar-tools header1">
+	        <span>Users</span>
+	      </div>
+	    </md-toolbar>
+	    <div flex class="userlist">
+			<md-content>
+		      <md-list flex >
+				    <md-list-item class="md-3-line layout-row" ng-repeat="user in userslist" ng-click="getchatlist(user)">
+				    <img height="50px" width="50px" class="profpic" src="../front/assets/images/{{user.profilepic}}"/>
+		          <div class="md-list-item-text pull-right" layout="column">
+
+					<div layout="row">
+		   			<span class="name col-md-8">{{user.name}}</span>
+		   			<span><md-button class="md-icon-button col-md-2" ng-click="viewprofile($event,user.id)"><md-icon>keyboard_arrow_down</md-icon></md-button></span>
+		   			</div>
+
+		   			<span class="user_online col-md-8" ng-if="user.status ==1">online</span><span class="user_offline col-md-8" ng-if="user.status == 0">Offline</span>
+		          </div>
+		          <span class='count' ng-if="user.unread_messages!= 0">{{user.unread_messages}}</span>
+		        </md-list-item>
+		      </md-list>
+      </md-content>
+      </div>
+    </div>
+
+			<div class="col-md-6">
+				<div class="chatbox layout-column" schroll-bottom="messages">
+						<md-toolbar layout="row" class="md-hue-7 info">
+						      <div class="md-toolbar-tools row">
+						        <span class="col-md-3"><div class="profilepic col-md-2"><img src="assets/images/male.png" height="40px" width="40px"/></div></span>
+						        <span class="col-md-6"><h4 class="col-md-8">{{rec_name}}</h4></span>
+						        <span class="col-md-3 pull-right"><md-menu><md-button aria-label="Open menu" class="md-icon-button pull-right" ng-click="openMenu($mdOpenMenu, $event)">
+		<md-icon md-menu-origin>menu</md-icon>
+	  </md-button>
+	  <md-menu-content width="4">
+		<md-menu-item>
+		  <md-button ng-click="clearall()">
+			<md-icon>clear_all</md-icon>Clear all messages
+		  </md-button>
+		</md-menu-item>
+		<md-menu-item>
+		  <md-button ng-click="updateprofile()">
+			<md-icon>insert_emoticon</md-icon>Update Profile
+		  </md-button>
+		</md-menu-item>
+		<md-menu-item>
+		  <md-button ng-click="logout()">
+			<md-icon>power_settings_new</md-icon>Logout
+		  </md-button>
+		</md-menu-item>
+		</md-menu-content>
+		</md-menu></span>
+
+
+
+						      </div>
+	   					 </md-toolbar>
+	  <div class="chatbox-scroll" id="chatbox" class="jspScrollable">
+								<md-content>
+								<div ng-repeat="x in chat_messages">
+									
+										<div ng-if="x.s_id == currentUserId">
+												
+											<div class="msg_from pull-right" "><div class="toname"><b>{{x.sender_name}}</b></div>{{x.message}}</div>
+
+										</div>
+										<div ng-if="x.r_id == currentUserId">
+											<div id="msg_to">
+											<div class="msg_to pull-left" "><div class="toname"><b>{{x.sender_name}}</b></div>{{x.message}}</div>
+										</div>
+
+										</div>
+										<!--  -->
+									
+
+								</div>
+								</md-content>
+								</div>
+				</div>
+				<!-- <input type="text" class="message form-control" placeholder="Your message here" > -->
+		<form ng-submit="send_msg()">
+		<md-input-container>
+		<label>Message</label>
+		<input type="text" ng-model="message" id="message" placeholder="Your message here" ng-submit="myfun()" width="300px">
+	  </md-input-container>
+				<md-button class="md-fab md-primary" aria-label="Send" ng-click="send_msg()"><md-icon>send</md-icon></md-button>
+
+				<!-- <md-checkbox type="checkbox" id="cb" ng-model="cbenter" checked>
+  <label>send on enter</label>
+  </md-checkbox> -->
+				<div ng-if="message"></div>	
+			  </form>
+			</div>
+			<div class="col-md-3">
+			<md-toolbar layout="row" class="md-hue-7">
+	      <div class="md-toolbar-tools header1">
+	        <span>My profile</span>
+	      </div>
+	      </md-toolbar>
+	      <md-content class="layout-column">
+	      <div class="myprofile">
+	      <img style="border-radius:100px;" src="../front/assets/images/{{profilepic}}" class="image-responsive" height="100px" width="100px"/>
+	      <h3>{{uname}}</h3>
+			<span class="status">{{userstatus}}</span>
+	       <md-switch class="md-primary" md-no-ink aria-label="Switch No Ink" ng-model="switch_status" ng-true-value="'online'" ng-false-value="'offline'" ng-change="statuschange()" active>
+    	Status:{{switch_status}}
+  			</md-switch>
+	      </div>
+	      </md-content>
+			</div>
+	</div>
+	</div>
+
+
+
+	 <div style="visibility: hidden; height:500px; width:500px;">
+    <div class="md-dialog-container" id="viewprofile">
+      <md-dialog layout-padding >
+        <div ng-repeat='usr in userinfo'>
+        	<div class="layout-column">
+        		<img src="../front/assets/images/{{usr.profilepic}}" width="100px" height="100px" />
+        		<h2>{{usr.name}}</h2>
+        		<p>{{usr.email}}</p>
+        	</div>
+        </div>
+      </md-dialog>
+    </div>
+  </div>
+</body>
+</html>

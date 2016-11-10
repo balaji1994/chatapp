@@ -1,0 +1,79 @@
+<div ng-app="chatApp" ng-controller="RegistrationController">
+<div layout="column" layout-align="end center" class="regform">
+	<form name="register" ng-validate ng-submit="saveProfile()">
+	<div flex><h1>Have a Good start Here!!</h1></div>
+  <div class="msg_class" flex data-flash-message="5000"></div>
+		<div flex>
+			<md-input-container>
+              <label>Firstname</label>
+              <input ng-model="reg.name" name="fname" required  ng-minlength="2" type="text">
+              <p ng-show="register.fname.$error.minlength" class="help-block">Invalid Username.</p>
+            </md-input-container>
+		</div>
+		<div flex>
+            <md-input-container>
+              <label>Last name</label>
+              <input ng-model="reg.lname" name="lname" required  ng-minlength="2" type="text">
+            </md-input-container>
+         </div>
+         <div flex>
+            <md-input-container>
+              <label>Email</label>
+              <input ng-model="reg.email" name="email" ng-blur="validateEmail()" required  ng-minlength="2" type="email">
+              <p ng-show="register.email.$error.invalid">Invalid Email</p>
+              <p ng-show="register.email" ng-if="invalid_email" class="error_msg">*Email already exists</p>
+            </md-input-container>
+           </div>
+           <div flex>
+            <md-input-container>
+            <label>Date of birth</label>
+            <md-datepicker ng-model="reg.dob" required></md-datepicker>
+          </md-input-container>
+          </div>
+          <div flex>
+            <md-input-container>
+              <label>Password</label>
+              <input ng-model="reg.password" name="password" required  ng-minlength="5" type="password" data-ng-pattern="/(?=.*[a-z])(?=.*[A-Z])(?=.*[^a-zA-Z])/">
+               <p ng-show="register.password.$error.minlength" class="help-block">Invalid password.</p>
+            </md-input-container>
+            </div>
+            <div flex>
+            <md-input-container>
+              <label>Confirm password</label>
+              <input ng-model="reg.cpassword" name="cpassword" required  ng-minlength="5" type="password" data-validate-match="register.password">
+              
+              <div class="errors">
+              	<!-- <p data-ng-show="register.cpassword.$error.minlength" class="help-block">Invalid password.</p> -->
+        		<div data-ng-show="register.cpassword.$dirty && register.cpassword.$invalid" ><div data-ng-show="register.cpassword.$error.noMatch" class="error_msg">
+        			Password and confirm password doesn't match!!
+        			</div>
+        		</div>
+              </div>
+            </md-input-container>
+            </div>
+            <div flex>
+		 <md-radio-group ng-model="reg.gender" name="gender" required>
+		      <md-radio-button value="Male" class="md-primary">Male</md-radio-button>
+		      <md-radio-button value="Female"> Female </md-radio-button>
+    		</md-radio-group>
+    		</div>
+        <div flex>
+        Show Us How u Look like:
+    <md-input-container>
+       <button type="file" class="button"  ngf-select="uploadedImage($file, $invalidFiles)" ng-model="file" name="file" ngf-pattern="'image/*'"
+    ngf-accept="'image/*'" ngf-max-size="2MB" ngf-min-height="100" 
+    ngf-resize="{width: 100, height: 100}">Select</button>   {{f.name}} {{errFile.name}} {{errFile.$error}} {{errFile.$errorParam}}
+    <span class="progress" ng-show="f.progress >= 0">
+      <div style="width:{{f.progress}}%"  
+           ng-bind="f.progress + '%'"></div>
+    </md-input-container>
+    </div>
+    		<md-input-container>
+		<md-button class="md-raised md-primary md-ink md-hue-1" type="submit" >Register</md-button>
+		</md-input-container>
+		</div>
+    <a href="#/login">Login</a>
+
+	</form>
+</div>
+</div>

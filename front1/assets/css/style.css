@@ -1,0 +1,73 @@
+body{
+      font-family:"sans-serif";
+    }
+.navBardemoBasicUsage md-content .ext-content {
+  padding: 50px;
+  margin: 20px;
+  background-color: #FFF2E0; }
+  .header
+  {
+  	width:auto;
+  	height:60px;
+  	background-color:#2196f3;
+  	color:#fff;
+  	position:relative;
+  	padding:1px;
+    box-shadow: 0 0 10px grey;
+  	font-family:"sans-serif";
+  }
+  .chatbox{
+  	height:500px;
+  	width:100%;
+  	margin-top:10px;
+  	margin-bottom:10px;
+  	border:2px solid rgb(63, 81, 181);
+  	box-shadow:0 0 5px grey;
+  	border-radius:5px;
+  	background-color:#fff;
+    padding: 0;
+    overflow: auto;
+  }
+  .container
+  {
+  	background-color:#f3f3f3;
+  }
+  .msg_to{
+  	background-color: #009688;
+    color:#fff;
+  	background-size:300px;
+  	border-radius:15px;
+  	width:50%;
+  	height:auto;
+  	padding:10px;
+    margin-top: 63px;
+    margin-left: 10px;
+  }
+  .msg_from{
+    margin-top:100px;
+  	background-color:rgb(63, 81, 181);
+  	background-size:300px;
+    color:#fff;
+  	border-radius:15px;
+  	width:50%;
+  	height:auto;
+  	padding:10px;
+  	word-wrap: break-word;
+  	transition:1s;
+  	margin:2px;
+  }
+  md-input-container {
+  width: 80%;
+}
+.chatbox>.info{
+  height:50px;
+  width: 551px;
+  background-color:#2196f3;
+  margin:0px;
+  position: absolute;
+  float: left;
+  color:#fff;
+  padding-left:30px;
+}
+.profilepic{
+}

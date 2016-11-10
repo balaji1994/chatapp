@@ -1,0 +1,2016 @@
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:05:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular-animate.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular-animate.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular-aria.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular-aria.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular-messages.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular-messages.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular-route.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular-route.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular-animate.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular-animate.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular-aria.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular-aria.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular-messages.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular-messages.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular-route.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular-route.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular-animate.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular-animate.min.js.map
+---
+2016/11/07 13:10:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular-aria.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular-aria.min.js.map
+---
+2016/11/07 13:10:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular-messages.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular-messages.min.js.map
+---
+2016/11/07 13:10:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular-route.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular-route.min.js.map
+---
+2016/11/07 13:10:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular-animate.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular-animate.min.js.map
+---
+2016/11/07 13:11:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular-messages.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular-messages.min.js.map
+---
+2016/11/07 13:11:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular-aria.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular-aria.min.js.map
+---
+2016/11/07 13:11:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular-route.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular-route.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---
+2016/11/07 13:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "front/assets/angular/angular.min.js.map".' in /var/www/html/yii_framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_framework/framework/web/CWebApplication.php(141): CWebApplication->runController('front/assets/an...')
+#1 /var/www/html/yii_framework/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/html/chatapp/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/front/assets/angular/angular.min.js.map
+---

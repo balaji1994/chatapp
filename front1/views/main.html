@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Main page</title>
+</head>
+<body>
+	<div class="container" ng-controller="chatController">
+			<div class="row">
+		  <div class="col-md-6 col-md-offset-3">
+		  <div class="header">
+		  	<h3 align="center">Welcome to Angularjs chatbox</h3>
+		  </div>
+		  </div>
+		  </div>
+	<div class="row">
+			<div class="col-md-6 col-md-offset-3">
+				<div class="chatbox">
+          <div class="info"><div class="profilepic col-md-2"><img src="assets/images/boy.png" height="40px" width="40px"/></div><h4 class="col-md-10">Angular robot</h4></div>
+					<div class="msg_to" ng-hide="isShow"><div class="fromname"><b>ROBO</b></div>{{data}}</div>
+					<div id="msg_frm">
+					</div>
+
+				</div>
+				<!-- <input type="text" class="message form-control" placeholder="Your message here" > -->
+        <form ng-submit="send_msg()">
+        <md-input-container>
+        <label>Message</label>
+        <input type="text" ng-model="message" placeholder="Your message here" ng-submit="myfun()" width="300px">
+      </md-input-container>
+				<md-button class="md-raised md-primary" ng-click="send_msg()">Send</md-button> <!-- <md-checkbox type="checkbox" id="cb" ng-model="cbenter" checked>
+  <label>send on enter</label>
+  </md-checkbox> -->
+          		<div ng-if="message"></div>
+              </form>
+			</div>
+	</div>
+	</div>
+</body>
+</html>
