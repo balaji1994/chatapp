@@ -381,7 +381,11 @@ $scope.viewprofile = function(ev,usr_id) {
         if(data.status=="200")
         {
           //data.messages
-          if($localStorage.msg_count<data.message_count)
+          if(data.message_count==0)
+          {
+            $localStorage.msg_count=0;
+          }
+          else if($localStorage.msg_count<data.message_count)
           {
               for(var i in data.messages){
            //      $notification(data.messages[i].sender_name, {
@@ -396,8 +400,8 @@ $scope.viewprofile = function(ev,usr_id) {
                 };
                 $scope.$emit('notify', notify);
               }
-        }
-        $localStorage.msg_count=data.message_count; 
+              $localStorage.msg_count=data.message_count;
+        } 
         }
     });
   }
