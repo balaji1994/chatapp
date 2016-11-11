@@ -20,7 +20,7 @@
 
 });
       app.controller('RegistrationController', RegistrationController); 
-  function RegistrationController($scope,Flash,$localStorage,$location,$window,$anchorScroll,$http,$rootScope,$route) {
+  function RegistrationController($scope,Upload,Flash,$localStorage,$location,$window,$anchorScroll,$http,$rootScope,$route) {
 
       $scope.reg={};
   		$scope.validateEmail=function()
@@ -52,10 +52,10 @@
   		{
 
         if ($scope.register.$valid) {
-  			$http({
+  			Upload.upload({
   				method:'POST',
   				url:'/users/saveProfile',
-  				data:{'userprof':$scope.reg,'profilepic':$scope.files01}
+  				data:{'userprof':$scope.reg,file:$scope.file}
   			}).success(function(data){
   				if(data.status=="200"){
   					Flash.create('success', 'Registered Successfully.. Now login to continue', 'msg_class');
@@ -66,13 +66,20 @@
   					Flash.create('warning', 'Internal issues', 'msg_class');
   				}
   			});
-        $scope.$watch('files.length',function(newVal,oldVal){
-            console.log($scope.files);
-        });
+        // $scope.$watch('files.length',function(newVal,oldVal){
+        //     console.log($scope.files);
+        // });
       }
   		}
       $scope.uploadedImage=function(file,errFiles){
+
         $scope.f = file;
         $scope.errFile = errFiles && errFiles[0];
       }
+      // $scope.upload=function(file){
+      //   Upload.upload({
+      //     url: 'upload/url',
+      //       data: {file: file, 'username': $scope.username}
+      //   })
+      // };
    }

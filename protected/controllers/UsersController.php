@@ -257,21 +257,52 @@ class UsersController extends Controller
 	}
 	public function actionsaveProfile()
 	{
-		$json = file_get_contents('php://input');
-		$data = json_decode($json);
+		
+		// $data = json_decode($json);
+		$data=$_POST['userprof'];
+		$image=$_FILES['file'];
+		// $target_file=$data->file;
+		// print_r($data['name']);
+		// print_r($image);
+		// exit;
 		$model=new Users;
-		$model->name=$data->userprof->name;
-		$model->last_name=$data->userprof->lname;
-		$model->password=md5($data->userprof->password);
-		$model->email=$data->userprof->email;
-		if($data->userprof->gender=='Male')
-		{
-		 $model->profilepic="boy.png";
-		}
-		else
-		{
-			$model->profilepic="girl.png";
-		}
+		$model->name=$data['name'];
+		$model->last_name=$data['lname'];
+		$model->password=md5($data['password']);
+		$model->email=$data['email'];
+		// if($data->userprof->gender=='Male')
+		// {
+		//  $model->profilepic="boy.png";
+		// }
+		// else
+		// {
+		// 	$model->profilepic="girl.png";
+		// }
+		 if ($_FILES['file']['size'] > 3000000) {
+                echo "false";
+            } else {
+                $target_path = Yii::app()->getBasepath();
+                print_r($target_path);
+                exit;
+                $target_path = $target_path . "/images/event_images/";
+                $ext_name = explode('.', basename($_FILES['file']['name']));  // get extension from file upload
+                $rand = rand(100, 1000);
+                $fname = 'profile_' . '' . $rand . '.' . $ext_name[1];
+                $target_file = $target_path . $fname;
+                if (move_uploaded_file($_FILES["file"]["tmp_name"], $target_file)) {
+                    $size = getimagesize($target_file);
+                    $maxWidth = 960;
+                    $maxHeight = 330;
+                    if ($size[0] < $maxWidth || $size[1] < $maxHeight) {
+                        unlink($target_file);
+                        echo "false";
+                        Yii::app()->end();
+                    } else {
+                        echo Yii::app()->request->hostInfo . "/protected/images/event_images/".$fname;
+                        Yii::app()->end();
+                    }
+                }
+        }
 		if($model->save(false))
 			{
 				$data=array('status'=>'200','message'=>'success');
