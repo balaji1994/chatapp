@@ -1,12 +1,27 @@
 (function() {
 'use strict';
       app.controller('UsersController', UsersController); 
-  function UsersController( $mdDialog,$interval,$scope,$localStorage,$location,$window,$anchorScroll,$http,$rootScope,$route) {
+  function UsersController($notification,$mdDialog,$interval,$scope,$localStorage,$location,$window,$anchorScroll,$http,$rootScope,$route) {
 $("#message").focus();
+// $notification('Welcome', {
+//     body: 'You are welcome.'
+//   });
+$scope.config = {
+    autoHideScrollbar: false,
+    theme: 'dark',
+    advanced:{
+        updateOnContentResize: true
+    },
+        scrollInertia: 0,
+        axis: 'y'
+    };
+
+    $localStorage.msg_count=0;
     $scope.rec_name=$localStorage.rec_name;
     var s_id=parseInt($localStorage.id);
     var r_id=parseInt($localStorage.r_id);
     $scope.uname=$localStorage.uname;
+    $scope.propic=$localStorage.profpic;
     $scope.profilepic=$localStorage.profilepic; 
     getstatus();
     function getstatus(){
@@ -67,6 +82,11 @@ $("#message").focus();
      $scope.Timer1 = $interval(function () {
             listusers(s_id);
                 }, 5000);
+
+
+     $scope.Timer2 =$interval(function (){
+           msg_notification(s_id);
+     },5000);
     //to view all the messages against the receiver
     function view_message(sender_id,receiver_id){
 
@@ -178,6 +198,7 @@ $("#message").focus();
       $scope.r_id=user.id;
       $localStorage.r_id=user.id;
       $localStorage.rec_name=user.name;
+      $localStorage.profpic=user.profilepic;
       //console.log($scope.r_id)
       if(user.id!=null)
       {
@@ -191,12 +212,16 @@ $("#message").focus();
            $scope.chat_messages=data.messages;
             $scope.currentUserId=$localStorage.id;
             $scope.rec_name=user.name;
+            $scope.propic=user.profilepic;
+            $scope.usrstate=user.status==1?"online":"offline";
           }
           else
           {
                $scope.chat_messages="";
                $scope.currentUserId=$localStorage.id;
                $scope.rec_name=user.name;
+               $scope.propic=user.profilepic;
+               $scope.usrstate=user.status;
           }
         });
         makeread(s_id,user.id);
@@ -204,7 +229,6 @@ $("#message").focus();
       }
     }
     function makeread(id,other){
-      console.log(id+other);
       $http({
         method:'POST',
         url:'/users/MakeRead',
@@ -288,7 +312,6 @@ $scope.updateprofile=function(id)
                     }
                   });
     }
-s_id
 $scope.clearall=function(){
   $http({
                     method:'POST',
@@ -348,6 +371,36 @@ $scope.viewprofile = function(ev,usr_id) {
       clickOutsideToClose: true
     });
   };
+  function msg_notification(id)
+  {
+    $http({
+           method:'POST',
+          url:'/users/Incomingunreadcount',
+          data:{'id':id}
+    }).success(function(data){
+        if(data.status=="200")
+        {
+          //data.messages
+          if($localStorage.msg_count<data.message_count)
+          {
+              for(var i in data.messages){
+           //      $notification(data.messages[i].sender_name, {
+           //       body: data.messages[i].message,
+           //       dir: 'auto',
+           //       icon: 'boy.png'
+           // });
+                var notify = {
+                    type: 'success',
+                    title: data.messages[i].sender_name,
+                    content: data.messages[i].message
+                };
+                $scope.$emit('notify', notify);
+              }
+        }
+        $localStorage.msg_count=data.message_count; 
+        }
+    });
+  }
     //Log out
     $scope.logout=function(){
        $window.localStorage.clear();
@@ -356,4 +409,23 @@ $scope.viewprofile = function(ev,usr_id) {
       $location.path('/');
     };
   }
+    //   var timer = 0;
+
+    // function reduceTimer() {
+    //     timer = timer - 1;
+    //     isTyping(true);
+    // }
+
+    // function isTyping(val) {
+    //     if (val == 'true') {
+    //         document.getElementById('typing_on').innerHTML = "User is typing...";
+    //     } else {
+
+    //         if (timer <= 0) {
+    //             document.getElementById('typing_on').innerHTML = "No one is typing -blank space.";
+    //         } else {
+    //             setTimeout("reduceTimer();", 500);
+    //         }
+    //     }
+    // }
 })();

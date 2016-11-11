@@ -51,7 +51,7 @@ class UsersController extends Controller
 		$data = json_decode($json);
 		$zero=0;
 		$one=1;
-		$messages=ChatMessage::model()->findAll('((sender_id=:s_id AND receiver_id=:r_id) OR (sender_id=:r_id AND receiver_id=:s_id)) AND sender_delete=:zero AND (receiver_delete=:one OR receiver_delete=:zero)',array(':s_id'=>$data->s_id,':r_id'=>$data->r_id,':zero'=>$zero,':one'=>$one));
+		$messages=ChatMessage::model()->findAll('((sender_id=:s_id AND receiver_id=:r_id) OR (sender_id=:r_id AND receiver_id=:s_id)) AND sender_delete=:zero AND (receiver_delete=:one OR receiver_delete=:zero) ORDER BY id',array(':s_id'=>$data->s_id,':r_id'=>$data->r_id,':zero'=>$zero,':one'=>$one));
 		if(!empty($messages))
 		{
 			$tmp=array();
@@ -108,6 +108,18 @@ class UsersController extends Controller
 	 	if(!empty($model))
 	 	{
 	 		return $model->name;
+	 	}
+	 	else
+	 	{
+	 		return 0;
+	 	}
+	 }
+	 public function getpic($id)
+	 {
+	 	$model=Users::model()->find('id=:id',array(':id'=>$id));
+	 	if(!empty($model))
+	 	{
+	 		return $model->profilepic;
 	 	}
 	 	else
 	 	{
@@ -171,6 +183,7 @@ class UsersController extends Controller
 		if(!empty($model))
 		{
 			$tmp=array();
+			$tmp1=array();
 			$result=array('status'=>'200','users'=>array());
 			foreach($model as $user)
 			{
@@ -193,7 +206,7 @@ class UsersController extends Controller
 	{
 		$json = file_get_contents('php://input');
 		$data = json_decode($json);
-		$model=Users::model()->findAll('is_delete=:isdel AND id<>:usr_id',array(':isdel'=>0,':usr_id'=>$data->s_id));
+		$model=Users::model()->findAll('is_delete=:isdel AND id<>:usr_id ORDER BY status DESC,name ASC',array(':isdel'=>0,':usr_id'=>$data->s_id));
 		$isRead=0;
 		if(!empty($model))
 		{
@@ -246,13 +259,19 @@ class UsersController extends Controller
 	{
 		$json = file_get_contents('php://input');
 		$data = json_decode($json);
-		print_r($data->profilepic[0]);
-		exit;
 		$model=new Users;
-		$model->name=$data->name;
-		$model->last_name=$data->lname;
-		$model->password=md5($data->password);
-		$model->email=$data->email;
+		$model->name=$data->userprof->name;
+		$model->last_name=$data->userprof->lname;
+		$model->password=md5($data->userprof->password);
+		$model->email=$data->userprof->email;
+		if($data->userprof->gender=='Male')
+		{
+		 $model->profilepic="boy.png";
+		}
+		else
+		{
+			$model->profilepic="girl.png";
+		}
 		if($model->save(false))
 			{
 				$data=array('status'=>'200','message'=>'success');
@@ -321,6 +340,33 @@ class UsersController extends Controller
 		{
 			$result=array('status'=>'fail','message'=>'user not found');
 		}
+	}
+	public function actionIncomingunreadcount()
+	{
+		$json = file_get_contents('php://input');
+		$data = json_decode($json);
+		$model=ChatMessage::model()->findAll('receiver_id=:id AND is_read=:zero',array(':id'=>$data->id,':zero'=>0));
+		if(!empty($model))
+		{
+			$result=array('status'=>'200','messages'=>array(),'message_count'=>count($model));
+			$tmp=array();
+			foreach($model as $list)
+			{
+				$tmp['sender_name']=$this->getname($list->sender_id);
+				$tmp['message']=$list->message;
+				$tmp['profilepic']=$this->getpic($list->sender_id);
+				array_push($result['messages'],$tmp);
+			}
+
+			$data=$result;
+			echo json_encode($data);
+		}
+		else
+		{
+			$data=array('status'=>'fail','message'=>'No messages found');
+			echo json_encode($data);
+		}
+
 	}
 
 }

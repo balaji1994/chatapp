@@ -1,0 +1,61 @@
+<?php
+
+class UsersController extends Controller
+{
+	public function actionIndex()
+	{
+		$this->render('index');
+	}
+	public function actionUserValidate()
+	 {
+	 	echo '---';
+	 	exit;
+	 	print_r("hi");
+		exit;
+		$json = file_get_contents('php://input');
+		$data = json_decode($json);
+		$is_active=1;
+		$is_delete=0;
+		// print_r($data->username);
+		// exit;
+		$model=Users::model()->find("email=:uname AND password=:pass AND is_active=:act AND is_delete=:del",array(":uname"=>$data->username,":pass"=>$data->password,":act"=>$is_active,":del"=>$is_delete));
+		// print_r($model);
+		// exit;
+		$tmp=array();
+		if(!empty($model))
+		{
+			$tmp['status']=true;
+		}
+		else
+		{
+			$tmp['status']=false;
+		}
+		
+	 }
+	// Uncomment the following methods and override them if needed
+	/*
+	public function filters()
+	{
+		// return the filter configuration for this controller, e.g.:
+		return array(
+			'inlineFilterName',
+			array(
+				'class'=>'path.to.FilterClass',
+				'propertyName'=>'propertyValue',
+			),
+		);
+	}
+
+	public function actions()
+	{
+		// return external action classes, e.g.:
+		return array(
+			'action1'=>'path.to.ActionClass',
+			'action2'=>array(
+				'class'=>'path.to.AnotherActionClass',
+				'propertyName'=>'propertyValue',
+			),
+		);
+	}
+	*/
+}

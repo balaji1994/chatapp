@@ -1,5 +1,15 @@
-app.controller('LoginController', function($localStorage,$location,$scope,$http,Flash) {
+app.controller('LoginController', function($localStorage,$location,$scope,$http,Flash,$rootScope) {
     $scope.user={};
+    function setstatus(id,state)
+{
+  $http({
+          method:'POST',
+          url:'/users/statusChange',
+          data:{'s_id':id,'state':state}
+      }).success(function(data){
+            
+});
+}
         // function to submit the form after all validation has occurred            
         $scope.submitForm = function() {
             var data_user=$scope.user;
@@ -17,6 +27,8 @@ app.controller('LoginController', function($localStorage,$location,$scope,$http,
                     $localStorage.uname=data.data;
                     $localStorage.id=data.id;
                     $localStorage.profilepic=data.profilepic;
+                    var online="online";
+                    setstatus(data.id,online);
                     Flash.create('success', 'Login Successful', 'custom-class');
                      $location.path('/chatpage');
                     
