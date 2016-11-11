@@ -143,14 +143,22 @@ body{
   .error_msg{
     color:red;
   }
-.count {
-  height: 20px;
+  .count{
+    color:#fff;
+    background-color:#FFA000;
+    text-align: center;
+    border-radius: 15px;
+    padding-bottom:4px;
+     height: 20px;
   left: 48px;
   line-height: 20px;
   position: absolute;
   top: 54px;
   width: 20px;
-}
+
+/*    margin-left: 136px;
+    z-index:10;*/
+  }
   .profpic{
     border-radius:20px;
     margin-right:20px;
